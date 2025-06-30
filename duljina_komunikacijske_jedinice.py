@@ -2,7 +2,7 @@
 import os
 
 # ako netko ovo isproba samostalno, mora staviti path na put do vlastite mape u računalu
-path = r"UPISITE VAU PUTANJU OVDJE"
+path = r"UPISITE VASU PUTANJU OVDJE"
 
 def broj_rijeci(tekst):
     return len(tekst.strip().split())
